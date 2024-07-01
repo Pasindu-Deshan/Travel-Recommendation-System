@@ -1,0 +1,1001 @@
+user_id,budget,interests,climate,destination
+522,2453,beach,arctic,Bali
+738,4000,beach,temperate,Zanzibar
+741,2896,adventure,arctic,Denali National Park
+661,1251,historical,tropical,Greece
+412,4394,historical,arctic,Florence
+679,2471,mountain,tropical,Mount Everest
+627,2868,beach,temperate,Brazil
+514,4913,mountain,arctic,Patagonia
+860,1408,beach,arctic,Cancun
+137,1643,historical,tropical,Turkey
+812,1149,mountain,tropical,Fiordland National Park
+77,3782,beach,desert,Fiji
+637,3838,beach,desert,Santorini
+974,2912,mountain,temperate,Annapurna
+939,4339,mountain,tropical,New Zealand
+900,4864,adventure,temperate,Maasai Mara
+281,4002,city,temperate,Sydney
+884,1676,mountain,temperate,Matterhorn
+762,4152,city,arctic,San Francisco
+320,1059,historical,arctic,Greece
+550,4862,historical,arctic,Italy
+175,4889,historical,desert,Siem Reap
+372,2083,beach,tropical,Cancun
+528,2297,historical,desert,Kamakura
+211,1723,city,arctic,Doha
+236,2772,mountain,arctic,Banff National Park
+102,3923,mountain,desert,Andes
+987,1247,beach,tropical,Maui
+903,4380,city,temperate,Macau
+948,1975,historical,desert,Cambodia
+347,4596,historical,tropical,Pisa
+140,1359,mountain,temperate,Machu Picchu
+622,3772,adventure,temperate,Rotorua
+500,4519,adventure,temperate,Iceland
+371,3921,beach,tropical,Bermuda
+199,2345,mountain,temperate,Annapurna
+688,1010,mountain,temperate,Himalayas
+585,1344,adventure,tropical,Reykjavik
+902,3751,beach,arctic,Phuket
+60,4870,historical,tropical,Xian
+329,1986,historical,arctic,Venice
+97,2773,beach,arctic,Brazil
+313,3921,city,desert,Barcelona
+975,4480,historical,tropical,Rome
+300,3956,beach,tropical,Barbados
+278,4876,beach,tropical,Barbados
+925,3022,adventure,tropical,Reykjavik
+602,3747,beach,arctic,Ibiza
+440,3853,mountain,tropical,Nepal
+838,3069,adventure,desert,Kruger National Park
+571,4446,adventure,tropical,Blue Lagoon
+880,4861,beach,desert,Maldives
+262,1084,beach,temperate,Aruba
+579,2811,beach,temperate,Greece
+24,4365,beach,tropical,Fiji
+31,3428,mountain,temperate,Austria
+618,1446,city,desert,Kyoto
+11,1409,beach,temperate,Bahamas
+222,4009,beach,arctic,Mykonos
+821,1753,city,desert,San Francisco
+297,3774,city,temperate,Macau
+55,1318,beach,temperate,Tahiti
+543,1452,adventure,desert,Arenal
+210,3505,historical,desert,Vatican City
+605,2747,mountain,arctic,Austria
+693,2616,adventure,tropical,Preikestolen
+663,3783,historical,temperate,Rome
+867,3734,adventure,tropical,Blue Lagoon
+71,1358,city,tropical,Paris
+544,4378,city,arctic,New York
+108,2922,city,temperate,Barcelona
+494,2086,historical,arctic,Ephesus
+591,2377,mountain,tropical,Fiordland National Park
+742,3819,mountain,desert,Patagonia
+293,3708,city,desert,Kuala Lumpur
+290,1956,historical,temperate,Cambodia
+653,2540,historical,desert,Chichen Itza
+40,4985,mountain,tropical,Annapurna
+590,1008,mountain,desert,Lake Louise
+308,4285,city,tropical,Edinburgh
+680,1382,beach,temperate,Cancun
+67,3761,city,desert,New York
+276,1412,mountain,desert,New Zealand
+68,1563,beach,arctic,Ibiza
+319,4668,adventure,temperate,Peru
+549,4522,historical,arctic,Turkey
+999,2992,adventure,tropical,Monteverde
+715,3843,beach,temperate,Fiji
+754,3409,beach,desert,Cancun
+328,1573,mountain,temperate,Torres del Paine
+383,1870,beach,tropical,Bora Bora
+452,2384,historical,tropical,Osaka
+523,3768,beach,temperate,Bali
+219,1197,mountain,temperate,Himalayas
+788,1146,mountain,desert,Lake Louise
+437,1822,city,desert,Hong Kong
+765,2313,adventure,temperate,Trolltunga
+89,1060,historical,arctic,Siem Reap
+64,4268,mountain,temperate,Banff National Park
+827,4306,beach,desert,Bali
+717,2241,adventure,arctic,Rotorua
+352,2181,adventure,arctic,Alaska
+937,1313,city,temperate,Milan
+257,1986,historical,arctic,Istanbul
+636,2118,adventure,temperate,Reykjavik
+645,3852,beach,arctic,Mykonos
+555,2878,city,desert,San Francisco
+960,3341,city,desert,Hong Kong
+169,3550,mountain,tropical,Himalayas
+918,4544,city,tropical,Barcelona
+529,2053,historical,temperate,Phnom Penh
+824,2014,mountain,temperate,Fiordland National Park
+986,1432,mountain,arctic,Canada
+817,4186,city,tropical,Abu Dhabi
+87,4950,city,temperate,Auckland
+433,1298,beach,temperate,Bora Bora
+185,3327,city,arctic,Edinburgh
+979,4166,mountain,temperate,Jungfrau
+535,4675,historical,tropical,Chichen Itza
+295,3312,historical,temperate,Kyoto
+893,2871,mountain,tropical,Switzerland
+426,3307,city,tropical,San Francisco
+714,3195,mountain,tropical,Fiordland National Park
+261,2772,beach,tropical,Maldives
+238,3692,beach,temperate,Bali
+560,4100,mountain,temperate,Machu Picchu
+584,2189,mountain,tropical,Torres del Paine
+446,2047,adventure,temperate,Preikestolen
+868,1587,adventure,tropical,Costa Rica
+801,4865,city,temperate,Melbourne
+600,3036,adventure,tropical,Blue Lagoon
+850,3517,beach,temperate,Bali
+266,3935,beach,tropical,Greece
+996,3203,beach,temperate,Australia
+530,3729,historical,desert,China
+56,1038,mountain,desert,Torres del Paine
+121,3026,mountain,desert,Patagonia
+216,1569,city,arctic,Paris
+26,2578,adventure,desert,Blue Lagoon
+73,2729,city,temperate,Sydney
+45,2487,beach,desert,Bahamas
+248,3051,historical,temperate,Istanbul
+722,3218,adventure,desert,Queenstown
+282,1774,adventure,arctic,Denali National Park
+894,2118,mountain,tropical,Annapurna
+915,2037,city,temperate,Kyoto
+811,4050,adventure,temperate,Norway
+245,2674,mountain,arctic,New Zealand
+823,1127,city,desert,New York
+322,3715,city,tropical,Osaka
+644,4408,historical,temperate,Izmir
+159,1803,beach,tropical,Ibiza
+978,2762,historical,temperate,Alexandria
+430,1892,mountain,arctic,Banff National Park
+942,4540,mountain,tropical,New Zealand
+463,2778,beach,tropical,Maldives
+310,2277,historical,temperate,Vatican City
+698,4026,city,temperate,Kuala Lumpur
+61,2760,beach,arctic,Bahamas
+885,1551,beach,desert,Phuket
+596,1240,adventure,temperate,Reykjavik
+768,2713,city,temperate,Tokyo
+650,3740,historical,desert,Izmir
+651,3184,historical,arctic,Greece
+866,3408,adventure,temperate,Blue Lagoon
+669,4626,adventure,desert,Maasai Mara
+299,2341,historical,arctic,Osaka
+690,4951,historical,desert,Cairo
+315,2087,city,temperate,Abu Dhabi
+311,2754,beach,temperate,Phuket
+362,3196,city,temperate,Amsterdam
+480,2872,mountain,temperate,Innsbruck
+111,4826,beach,arctic,Barbados
+990,4138,city,desert,Doha
+487,2846,historical,arctic,Rome
+364,3590,beach,temperate,Ibiza
+255,1005,beach,arctic,Hawaii
+260,3561,adventure,arctic,Galapagos Islands
+803,1316,beach,temperate,Bahamas
+678,4022,adventure,temperate,New Zealand
+495,1543,adventure,temperate,Kenya
+671,3054,historical,desert,Izmir
+378,2231,city,tropical,Berlin
+527,3574,historical,arctic,Kyoto
+846,1829,beach,desert,Santorini
+138,3648,mountain,arctic,Machu Picchu
+356,3173,beach,arctic,Hawaii
+366,1769,adventure,arctic,Alaska
+943,3914,city,desert,Los Angeles
+750,3060,city,arctic,San Francisco
+949,4256,city,tropical,London
+830,1918,historical,temperate,Beijing
+657,1706,historical,arctic,Pisa
+200,1288,historical,arctic,Greece
+214,2337,beach,desert,Fiji
+409,1931,beach,desert,Malaysia
+333,3447,beach,tropical,Seychelles
+209,4249,city,arctic,Singapore
+614,2532,adventure,temperate,Kenya
+79,1413,mountain,arctic,Patagonia
+30,4313,city,desert,Rome
+536,3820,mountain,arctic,Himalayas
+696,1127,mountain,desert,Tyrol
+558,4680,adventure,desert,Rotorua
+837,4559,mountain,tropical,Lake Louise
+597,2947,city,arctic,Melbourne
+166,1568,mountain,arctic,Machu Picchu
+919,3454,city,desert,Auckland
+496,2261,historical,temperate,Kyoto
+825,3918,beach,arctic,Maui
+66,3620,historical,desert,Santorini
+142,3587,beach,desert,Barbados
+926,3772,historical,desert,Cairo
+828,1759,city,desert,Rome
+656,3304,historical,arctic,Cairo
+332,1682,adventure,arctic,Preikestolen
+665,3544,beach,arctic,Australia
+250,2255,adventure,temperate,Peru
+908,3297,mountain,arctic,Mount Everest
+709,1334,historical,arctic,Kamakura
+306,3974,beach,temperate,Bermuda
+735,1272,historical,arctic,Japan
+976,4472,historical,temperate,Florence
+50,3557,historical,arctic,India
+897,4402,city,arctic,Paris
+3,2346,city,temperate,New York
+545,4957,city,desert,Manchester
+351,4805,city,tropical,Shanghai
+905,2622,historical,temperate,Istanbul
+537,2140,historical,tropical,Greece
+345,2230,beach,arctic,Mykonos
+995,3300,historical,tropical,Cairo
+482,3276,mountain,temperate,Fiordland National Park
+576,2999,beach,desert,Maldives
+34,3534,city,temperate,Madrid
+32,4308,historical,tropical,Izmir
+232,2941,city,tropical,Doha
+964,4805,mountain,desert,Innsbruck
+193,4084,historical,desert,Japan
+334,3746,historical,temperate,Beijing
+4,2325,mountain,temperate,Rocky Mountains
+205,1206,city,tropical,Shanghai
+515,3562,beach,arctic,Cancun
+800,3085,mountain,arctic,Peru
+307,2912,adventure,arctic,Scotland
+110,3729,city,arctic,Shanghai
+431,2379,beach,desert,Maldives
+78,1122,city,desert,Rome
+85,4301,beach,temperate,Malaysia
+287,4746,historical,temperate,Izmir
+83,1244,city,temperate,Auckland
+992,1372,historical,arctic,Santorini
+790,1099,historical,tropical,Angkor Wat
+895,3998,beach,arctic,Fiji
+399,4944,beach,desert,Australia
+324,1397,historical,tropical,Phnom Penh
+520,3989,beach,temperate,Hawaii
+917,4407,mountain,temperate,Patagonia
+923,4230,mountain,temperate,New Zealand
+6,2758,mountain,desert,New Zealand
+732,4099,beach,desert,Barbados
+466,2838,beach,tropical,Brazil
+98,1933,city,tropical,Amsterdam
+267,3296,mountain,desert,Austria
+358,4046,historical,temperate,Greece
+869,4800,city,temperate,Berlin
+799,3737,mountain,temperate,Andes
+381,3443,mountain,arctic,Peru
+632,2501,beach,arctic,Hawaii
+382,3559,mountain,temperate,Nepal
+491,2054,historical,desert,Siem Reap
+119,3805,city,temperate,San Francisco
+901,1070,mountain,tropical,Nepal
+251,2172,historical,temperate,Chichen Itza
+524,3910,city,tropical,Kyoto
+10,1210,mountain,tropical,Patagonia
+197,4249,beach,arctic,Cancun
+604,3979,city,tropical,Barcelona
+82,3645,adventure,tropical,Iceland
+784,2534,historical,tropical,Egypt
+588,1175,city,tropical,Amsterdam
+798,3597,city,temperate,Melbourne
+240,4100,beach,tropical,Phuket
+291,4960,historical,temperate,Egypt
+212,3830,mountain,temperate,Patagonia
+718,4980,city,temperate,Singapore
+360,4421,mountain,temperate,Patagonia
+450,2365,city,arctic,Dubai
+228,3564,historical,desert,Athens
+951,1992,city,tropical,Los Angeles
+947,2237,historical,arctic,Italy
+797,3936,beach,arctic,Phuket
+502,3376,mountain,arctic,Canada
+465,1719,beach,desert,Bora Bora
+363,2624,beach,tropical,Barbados
+469,1044,adventure,temperate,Trolltunga
+936,4405,city,tropical,Tokyo
+429,2721,mountain,desert,Rocky Mountains
+8,3359,beach,temperate,Thailand
+156,3329,city,desert,Milan
+542,4755,adventure,arctic,Rotorua
+441,4409,beach,temperate,Thailand
+483,4044,mountain,arctic,Canada
+423,2938,historical,tropical,Turkey
+779,1856,mountain,arctic,Annapurna
+950,2324,city,desert,Berlin
+335,3434,beach,arctic,Brazil
+577,1720,adventure,arctic,Loch Ness
+935,3217,historical,desert,Pompeii
+568,3458,beach,arctic,Barbados
+595,2206,city,desert,Tokyo
+531,4385,beach,arctic,Bahamas
+582,2514,city,arctic,Kuala Lumpur
+708,1021,mountain,desert,Patagonia
+449,3563,beach,desert,Bora Bora
+454,4010,city,temperate,Kyoto
+229,3218,mountain,arctic,Andes
+353,3213,mountain,arctic,Mount Everest
+729,1618,historical,tropical,Olympia
+213,2613,mountain,tropical,Patagonia
+80,4907,adventure,desert,Maasai Mara
+149,1114,city,arctic,Milan
+303,3603,historical,desert,Florence
+629,1120,mountain,desert,Matterhorn
+778,1186,beach,temperate,Thailand
+507,2596,beach,arctic,Zanzibar
+343,4137,adventure,temperate,Maasai Mara
+486,3261,historical,temperate,Athens
+712,1856,mountain,desert,Patagonia
+134,3374,adventure,tropical,Alaska
+704,4368,city,arctic,Venice
+312,1923,city,arctic,Sydney
+723,2341,historical,desert,Chichen Itza
+630,4052,beach,desert,Mykonos
+1,4388,city,arctic,Singapore
+317,1671,beach,tropical,Phuket
+707,3937,adventure,tropical,Rotorua
+548,4122,historical,desert,Kyoto
+873,2912,beach,desert,Bahamas
+533,3428,beach,temperate,Phuket
+478,3345,city,arctic,Amsterdam
+405,4126,city,tropical,Singapore
+173,3494,historical,tropical,Xian
+126,1342,mountain,desert,Patagonia
+395,2429,adventure,desert,Peru
+421,4403,beach,arctic,Malaysia
+553,4139,city,tropical,Paris
+904,1807,mountain,arctic,Matterhorn
+91,4743,mountain,arctic,Himalayas
+940,4961,historical,arctic,Alexandria
+182,2860,city,tropical,Berlin
+275,2465,beach,desert,Bora Bora
+896,3689,adventure,desert,Galapagos Islands
+70,1064,beach,temperate,Barbados
+292,4188,city,tropical,New York
+132,1436,beach,desert,Fiji
+301,4635,historical,tropical,Alexandria
+425,1287,adventure,arctic,Preikestolen
+327,1539,city,arctic,Madrid
+145,3817,city,desert,Edinburgh
+424,1799,beach,temperate,Greece
+581,1236,beach,tropical,Bahamas
+136,1632,adventure,arctic,Kenya
+451,2312,city,desert,Los Angeles
+165,4148,adventure,desert,Norway
+29,2137,beach,desert,Bermuda
+774,2982,adventure,arctic,Kenai Fjords
+194,2482,adventure,temperate,Kenya
+389,4181,historical,tropical,Phnom Penh
+853,4194,beach,desert,Zanzibar
+170,1578,adventure,temperate,Kenai Fjords
+706,3095,beach,tropical,Aruba
+141,1041,beach,arctic,Santorini
+174,1917,beach,desert,Cancun
+7,3523,historical,arctic,Italy
+746,4025,mountain,temperate,Fiordland National Park
+479,4451,mountain,temperate,Lake Louise
+74,1807,mountain,arctic,Patagonia
+911,2688,city,desert,London
+814,1539,city,tropical,Kuala Lumpur
+239,2908,beach,arctic,Tahiti
+146,2571,adventure,arctic,Isle of Skye
+793,1815,beach,tropical,Australia
+235,4512,beach,tropical,Barbados
+221,3747,city,desert,Osaka
+924,3648,adventure,temperate,Monteverde
+501,3946,mountain,desert,Canada
+133,3516,adventure,tropical,Monteverde
+991,1543,adventure,temperate,Trolltunga
+775,2195,adventure,tropical,Isle of Skye
+186,3732,city,tropical,Kuala Lumpur
+42,4403,city,temperate,Barcelona
+697,2186,historical,temperate,Mexico City
+109,2006,mountain,temperate,Nepal
+589,3379,beach,temperate,Aruba
+57,3854,historical,tropical,Izmir
+406,4250,mountain,arctic,Innsbruck
+443,4623,mountain,tropical,Machu Picchu
+758,3377,mountain,temperate,Rocky Mountains
+998,4382,historical,arctic,Izmir
+25,1342,adventure,temperate,Kenai Fjords
+468,4303,adventure,desert,Cape Town
+540,3232,historical,arctic,Chichen Itza
+532,4750,adventure,tropical,Kenya
+619,3818,mountain,desert,Austria
+695,3803,historical,temperate,Olympia
+927,4758,city,arctic,Edinburgh
+339,4802,mountain,tropical,Rocky Mountains
+52,3869,city,arctic,Shanghai
+508,2476,historical,tropical,Luxor
+517,1812,city,tropical,Milan
+921,1471,historical,arctic,Vatican City
+782,4942,beach,arctic,Mykonos
+265,1759,historical,desert,Delphi
+818,3843,historical,temperate,Greece
+711,2993,beach,tropical,Tahiti
+683,3090,beach,temperate,Aruba
+833,1888,adventure,arctic,Queenstown
+519,3277,city,tropical,Kuala Lumpur
+448,4068,city,temperate,Tokyo
+19,3198,adventure,tropical,Scotland
+716,3889,beach,arctic,Seychelles
+484,4689,beach,desert,Fiji
+569,2453,historical,desert,Turkey
+434,1240,adventure,temperate,Queenstown
+368,4547,mountain,arctic,Annapurna
+84,2140,city,desert,Berlin
+62,3161,beach,tropical,Bahamas
+639,1394,adventure,arctic,Kruger National Park
+273,3312,mountain,arctic,Annapurna
+286,2573,mountain,temperate,New Zealand
+361,2534,city,desert,Milan
+355,4374,adventure,temperate,Reykjavik
+457,1185,mountain,temperate,Rocky Mountains
+279,2408,city,temperate,San Francisco
+13,4308,beach,tropical,Thailand
+183,1602,mountain,desert,Machu Picchu
+369,1981,historical,arctic,Mykonos
+882,2684,mountain,tropical,Mount Everest
+616,1990,adventure,arctic,Kenai Fjords
+224,3521,historical,desert,Delphi
+573,4166,city,tropical,Kuala Lumpur
+971,3741,city,arctic,Doha
+654,4133,historical,desert,Shanghai
+546,1067,beach,tropical,Tahiti
+583,1249,beach,desert,Greece
+634,1519,city,desert,Abu Dhabi
+177,4590,historical,temperate,Nara
+666,4694,historical,arctic,Luxor
+674,3664,mountain,desert,Switzerland
+586,4426,mountain,tropical,Patagonia
+874,1212,historical,temperate,Pompeii
+394,1365,beach,tropical,Bermuda
+164,4277,adventure,tropical,Blue Lagoon
+249,4206,beach,temperate,Fiji
+635,4158,historical,temperate,Italy
+886,4491,beach,tropical,Zanzibar
+670,4870,historical,desert,Chichen Itza
+376,4523,beach,arctic,Cancun
+413,1341,mountain,tropical,Fiordland National Park
+75,4554,adventure,temperate,Kenya
+114,2098,beach,temperate,Australia
+599,4046,mountain,temperate,Andes
+962,1933,adventure,arctic,Galapagos
+391,3310,mountain,temperate,New Zealand
+105,4830,historical,arctic,Mykonos
+115,2101,city,temperate,Tokyo
+418,2207,beach,temperate,Brazil
+526,3961,historical,arctic,Beijing
+458,4098,mountain,arctic,Canada
+410,4441,mountain,arctic,Patagonia
+93,1445,adventure,tropical,Kenya
+931,4422,city,desert,Abu Dhabi
+90,3053,historical,arctic,Siem Reap
+337,4824,mountain,tropical,Patagonia
+989,2084,mountain,temperate,Lake Louise
+922,4752,beach,tropical,Greece
+934,4872,beach,temperate,Maui
+606,3364,adventure,arctic,Reykjavik
+594,3574,adventure,temperate,Isle of Skye
+612,2533,beach,temperate,Mykonos
+95,3033,beach,temperate,Bahamas
+12,3731,historical,arctic,Rome
+397,3882,adventure,tropical,Kenya
+534,3470,beach,desert,Hawaii
+44,1463,adventure,desert,Arenal
+43,2970,city,temperate,Singapore
+330,3971,historical,desert,Venice
+168,2822,adventure,arctic,Maasai Mara
+498,1635,historical,temperate,Shanghai
+877,4023,beach,arctic,Zanzibar
+598,4607,adventure,desert,Loch Ness
+757,3005,city,tropical,Osaka
+101,4545,beach,arctic,Bora Bora
+427,3812,city,tropical,Hong Kong
+179,3308,historical,tropical,Mexico
+445,2721,mountain,tropical,Banff National Park
+417,1902,city,desert,Osaka
+871,3901,mountain,temperate,Canada
+883,1367,city,desert,Melbourne
+681,4371,historical,tropical,Istanbul
+178,2423,adventure,arctic,Cape Town
+396,2055,beach,temperate,Thailand
+912,4090,adventure,arctic,Kenya
+794,2342,adventure,temperate,Isle of Skye
+961,2515,city,desert,Kyoto
+685,4683,adventure,temperate,Preikestolen
+384,2920,mountain,tropical,Banff National Park
+957,2911,historical,desert,Vatican City
+752,3630,mountain,tropical,Machu Picchu
+258,4264,city,temperate,Osaka
+539,2032,historical,temperate,Istanbul
+336,2380,mountain,arctic,Banff National Park
+16,2306,mountain,desert,Jungfrau
+325,3549,adventure,tropical,Blue Lagoon
+759,1789,adventure,arctic,New Zealand
+223,2739,historical,desert,Japan
+180,4222,adventure,temperate,Iceland
+984,1843,city,arctic,Los Angeles
+23,1051,city,arctic,Bangkok
+357,2633,mountain,arctic,Annapurna
+667,3830,mountain,desert,Nepal
+862,3207,historical,desert,Shanghai
+341,1685,city,arctic,Dubai
+432,2540,adventure,arctic,Kenya
+552,4143,beach,arctic,Cancun
+834,1896,mountain,tropical,Tyrol
+204,3671,historical,arctic,Kamakura
+631,3867,historical,tropical,Japan
+94,4731,historical,desert,Chichen Itza
+559,2344,historical,desert,Phnom Penh
+69,3168,adventure,tropical,Norway
+623,1532,beach,desert,Fiji
+285,3848,city,temperate,Melbourne
+845,4516,mountain,tropical,Jungfrau
+435,1568,historical,arctic,Greece
+154,1061,historical,tropical,Phnom Penh
+76,2789,historical,arctic,Rome
+731,2993,adventure,tropical,Cape Town
+447,4081,historical,desert,Alexandria
+189,1408,city,desert,Doha
+272,1425,mountain,temperate,Andes
+237,1899,city,tropical,San Francisco
+488,4811,historical,desert,Mykonos
+118,2433,city,tropical,San Francisco
+944,4104,city,temperate,Milan
+513,3396,historical,tropical,Japan
+826,2222,city,arctic,Kuala Lumpur
+592,2559,city,arctic,Dubai
+127,1581,mountain,desert,Mount Everest
+117,1044,adventure,temperate,Kruger National Park
+474,4391,adventure,arctic,Norway
+694,1590,city,desert,Barcelona
+58,1185,adventure,desert,New Zealand
+864,3966,mountain,desert,Rocky Mountains
+913,1574,city,arctic,Edinburgh
+370,4116,adventure,desert,Loch Ness
+269,4647,city,temperate,Milan
+47,4179,beach,arctic,Tahiti
+350,4747,mountain,tropical,Canada
+196,4354,mountain,temperate,Rocky Mountains
+1000,3512,beach,tropical,Cancun
+835,3884,historical,tropical,Cambodia
+737,1603,mountain,desert,Nepal
+264,1095,beach,tropical,Santorini
+444,4449,beach,desert,Bahamas
+676,4145,mountain,arctic,Patagonia
+305,3110,beach,temperate,Aruba
+342,2580,historical,arctic,India
+967,1223,beach,tropical,Hawaii
+150,2005,city,tropical,Barcelona
+125,2299,mountain,temperate,Torres del Paine
+787,2566,mountain,arctic,Tyrol
+51,4472,historical,tropical,Angkor Wat
+354,2925,historical,desert,Luxor
+928,1800,adventure,tropical,Isle of Skye
+143,2401,beach,desert,Hawaii
+471,2066,historical,temperate,Greece
+400,1293,adventure,tropical,Iceland
+626,1799,historical,tropical,Phnom Penh
+321,1969,adventure,tropical,Queenstown
+20,4220,city,arctic,Osaka
+810,1369,beach,temperate,Malaysia
+791,1753,beach,temperate,Greece
+809,3180,city,arctic,Manchester
+408,4365,historical,arctic,Japan
+538,4411,historical,temperate,Istanbul
+621,3466,historical,temperate,Kamakura
+39,1388,city,tropical,Amsterdam
+176,3288,mountain,tropical,Canada
+246,1870,mountain,arctic,Matterhorn
+829,1722,city,arctic,Kuala Lumpur
+668,4779,mountain,temperate,Fiordland National Park
+755,3231,historical,temperate,Siem Reap
+859,3197,beach,arctic,Bora Bora
+155,3783,beach,desert,Maldives
+288,2866,beach,tropical,Cancun
+603,3074,beach,tropical,Thailand
+570,1434,adventure,tropical,Alaska
+744,4945,adventure,tropical,Alaska
+18,4395,adventure,desert,Norway
+128,2673,historical,arctic,Luxor
+323,2483,adventure,arctic,Machu Picchu
+256,1496,mountain,arctic,Peru
+658,1695,beach,temperate,Hawaii
+965,2524,historical,tropical,Olympia
+191,3882,beach,tropical,Australia
+116,2143,city,temperate,Paris
+617,2388,historical,tropical,Izmir
+607,1538,mountain,desert,Jungfrau
+181,3724,historical,tropical,Vatican City
+302,2595,adventure,arctic,New Zealand
+760,4906,beach,tropical,Santorini
+713,1588,mountain,temperate,Patagonia
+724,3008,beach,temperate,Mykonos
+686,4654,historical,temperate,Istanbul
+980,1194,beach,arctic,Bora Bora
+518,1348,city,temperate,Doha
+985,2849,adventure,tropical,Kenya
+46,4250,city,desert,Auckland
+910,4085,historical,desert,Mykonos
+158,4470,beach,desert,Ibiza
+852,4710,beach,tropical,Greece
+172,1423,city,tropical,Milan
+17,3245,city,tropical,Dubai
+512,4980,beach,arctic,Seychelles
+49,3858,adventure,tropical,Kenya
+972,3342,beach,desert,Hawaii
+941,3713,mountain,temperate,New Zealand
+516,1643,beach,tropical,Ibiza
+953,2656,mountain,arctic,Jungfrau
+481,2431,mountain,temperate,Fiordland National Park
+284,2082,mountain,tropical,Tyrol
+719,4654,adventure,tropical,South Africa
+878,3551,beach,temperate,Thailand
+226,2619,beach,temperate,Mykonos
+27,1389,city,tropical,Abu Dhabi
+955,1890,adventure,arctic,Iceland
+438,1080,city,tropical,Barcelona
+952,3177,mountain,temperate,Rocky Mountains
+365,4167,mountain,tropical,Mount Everest
+230,2352,adventure,desert,Alaska
+38,2450,mountain,arctic,Andes
+966,4702,historical,temperate,Kamakura
+375,4019,adventure,arctic,Loch Ness
+470,3818,beach,arctic,Bermuda
+968,1561,city,arctic,Shanghai
+851,2148,beach,desert,Ibiza
+705,1482,adventure,desert,Isle of Skye
+842,4900,adventure,tropical,Preikestolen
+195,3671,mountain,desert,Patagonia
+855,2810,mountain,temperate,Switzerland
+865,4099,historical,temperate,Nara
+504,4536,mountain,desert,Machu Picchu
+970,2808,historical,arctic,Xian
+831,4910,mountain,desert,Annapurna
+580,2083,city,desert,Dubai
+969,3490,adventure,desert,Machu Picchu
+163,3718,adventure,arctic,Trolltunga
+909,3877,adventure,desert,Machu Picchu
+153,1725,beach,temperate,Aruba
+802,4858,historical,tropical,Olympia
+994,1857,adventure,temperate,New Zealand
+756,4208,city,temperate,Milan
+112,4517,mountain,tropical,Annapurna
+227,1121,historical,temperate,Olympia
+689,2537,historical,arctic,Delphi
+104,4449,beach,desert,Hawaii
+422,4664,city,tropical,Doha
+420,3843,historical,desert,Egypt
+751,1130,city,tropical,Dubai
+587,1768,city,temperate,Auckland
+781,2179,adventure,temperate,Rotorua
+673,3256,historical,arctic,China
+120,3613,historical,temperate,Florence
+54,3394,mountain,arctic,Himalayas
+152,4292,historical,desert,Athens
+404,3624,historical,tropical,Cambodia
+946,3069,mountain,tropical,Fiordland National Park
+208,4302,beach,desert,Bahamas
+659,4805,beach,arctic,Fiji
+844,4431,city,arctic,Milan
+763,1334,adventure,arctic,Kenya
+9,2660,historical,temperate,Delphi
+808,2254,city,arctic,Kyoto
+37,2104,adventure,temperate,Preikestolen
+453,3451,historical,arctic,Chichen Itza
+652,1960,beach,temperate,Hawaii
+254,1016,city,desert,Manchester
+304,4057,city,temperate,Singapore
+747,2783,beach,arctic,Zanzibar
+572,4830,beach,tropical,Australia
+624,3774,historical,tropical,Japan
+733,1830,city,desert,Amsterdam
+892,4400,mountain,arctic,Canada
+263,4263,adventure,arctic,New Zealand
+611,3441,city,desert,San Francisco
+298,3545,mountain,arctic,Nepal
+415,2673,city,temperate,Auckland
+151,2577,city,arctic,Tokyo
+789,3460,beach,desert,Mykonos
+641,4414,beach,temperate,Seychelles
+890,3235,historical,arctic,Kyoto
+551,3893,mountain,temperate,Jungfrau
+887,3615,adventure,arctic,Monteverde
+489,3692,historical,tropical,Mexico City
+148,4853,mountain,tropical,Lake Louise
+147,2394,historical,tropical,Pisa
+721,3648,city,temperate,Milan
+932,3683,adventure,desert,Galapagos
+740,3058,mountain,desert,Banff National Park
+660,1939,adventure,desert,Rotorua
+349,3391,city,temperate,Barcelona
+464,1829,mountain,temperate,Peru
+326,3448,adventure,tropical,Trolltunga
+187,3863,adventure,arctic,Kenai Fjords
+124,3758,city,temperate,Madrid
+854,4870,mountain,desert,Nepal
+609,2155,mountain,temperate,Peru
+144,4671,beach,tropical,Maldives
+959,3032,adventure,tropical,Machu Picchu
+198,1362,beach,desert,Santorini
+610,1659,city,temperate,New York
+280,4528,city,temperate,Edinburgh
+294,3345,beach,desert,Fiji
+401,1730,beach,temperate,Ibiza
+123,3299,city,desert,Edinburgh
+184,2362,historical,temperate,Egypt
+203,2382,mountain,desert,Matterhorn
+439,1348,mountain,temperate,Switzerland
+247,3518,mountain,tropical,Lake Louise
+416,2155,adventure,tropical,South Africa
+933,2228,mountain,tropical,Andes
+766,3695,beach,desert,Australia
+907,4340,beach,tropical,Fiji
+836,4094,mountain,temperate,Machu Picchu
+888,1564,beach,temperate,Thailand
+130,1092,adventure,temperate,Arenal
+638,2914,beach,tropical,Brazil
+403,4214,mountain,tropical,Canada
+785,2741,historical,desert,Cairo
+771,4295,mountain,tropical,Innsbruck
+736,3119,adventure,arctic,Scotland
+914,4237,historical,desert,Mexico City
+220,2747,adventure,arctic,Iceland
+642,3551,beach,arctic,Mykonos
+916,2162,beach,desert,Maldives
+753,4208,beach,desert,Hawaii
+807,3176,city,arctic,Shanghai
+920,1422,adventure,desert,New Zealand
+625,4532,adventure,temperate,Rotorua
+875,2741,city,arctic,Osaka
+761,1954,mountain,temperate,Lake Louise
+387,3729,adventure,arctic,Costa Rica
+973,2115,city,temperate,Singapore
+510,2798,historical,temperate,Venice
+268,4627,beach,temperate,Maui
+820,3108,city,tropical,Kuala Lumpur
+442,3848,mountain,temperate,Himalayas
+497,2881,mountain,desert,Innsbruck
+113,3811,historical,temperate,Ephesus
+692,2999,beach,desert,Ibiza
+233,4936,city,desert,Madrid
+870,1720,historical,tropical,Alexandria
+608,3941,mountain,arctic,Lake Louise
+672,3135,historical,arctic,India
+374,1707,mountain,desert,Lake Louise
+982,4541,beach,desert,Maui
+843,2721,mountain,desert,New Zealand
+234,1282,mountain,tropical,Mount Everest
+786,3849,historical,desert,Istanbul
+677,4159,historical,temperate,Italy
+318,4875,adventure,desert,Cape Town
+649,4945,city,arctic,Macau
+411,3553,adventure,tropical,Alaska
+899,3680,historical,desert,Santorini
+710,1073,city,temperate,Manchester
+359,2421,historical,tropical,Kyoto
+259,3061,historical,arctic,Nara
+745,1074,adventure,arctic,Alaska
+628,3202,beach,temperate,Australia
+633,3523,city,temperate,Madrid
+283,2067,mountain,tropical,Peru
+377,3523,city,tropical,Kuala Lumpur
+385,2143,historical,desert,Osaka
+225,1069,city,tropical,Madrid
+954,2686,beach,arctic,Hawaii
+815,3975,historical,desert,Xian
+473,2599,adventure,tropical,Alaska
+348,2559,historical,tropical,Phnom Penh
+506,4140,city,temperate,Paris
+640,4818,historical,arctic,Shanghai
+988,2691,historical,desert,Shanghai
+929,3634,historical,tropical,Italy
+906,2080,mountain,temperate,Andes
+620,3380,city,arctic,Manchester
+856,3358,mountain,arctic,Annapurna
+804,1539,historical,desert,Vatican City
+646,2443,beach,tropical,Ibiza
+847,1867,city,tropical,Osaka
+557,4775,city,temperate,Barcelona
+958,1302,beach,arctic,Seychelles
+578,2672,beach,desert,Fiji
+796,3810,historical,arctic,Xian
+86,4011,mountain,tropical,Annapurna
+243,1336,adventure,arctic,Isle of Skye
+699,2895,beach,arctic,Malaysia
+160,1360,adventure,desert,Loch Ness
+525,4969,city,temperate,Sydney
+36,2636,historical,temperate,Istanbul
+541,4394,historical,tropical,Turkey
+171,1455,adventure,tropical,Blue Lagoon
+655,4862,city,desert,Osaka
+891,2682,historical,temperate,Mexico City
+858,2366,adventure,arctic,Peru
+848,1773,adventure,arctic,Cape Town
+945,3710,adventure,temperate,Galapagos
+734,3393,adventure,tropical,Kenai Fjords
+96,1832,adventure,temperate,Denali National Park
+564,2518,adventure,arctic,Monteverde
+241,3940,mountain,desert,Fiordland National Park
+743,2732,adventure,temperate,Arenal
+575,3405,historical,tropical,Florence
+691,3616,historical,tropical,Nara
+461,2960,historical,temperate,Osaka
+554,3807,mountain,desert,Torres del Paine
+889,2444,adventure,tropical,Iceland
+207,3940,mountain,tropical,Fiordland National Park
+393,1404,historical,tropical,Egypt
+795,2859,beach,temperate,Cancun
+398,4761,mountain,temperate,Innsbruck
+767,1555,mountain,temperate,Nepal
+849,3223,mountain,desert,Switzerland
+218,3654,city,desert,Dubai
+5,1222,beach,desert,Hawaii
+769,2160,mountain,arctic,Matterhorn
+643,3281,historical,arctic,Mexico City
+930,1731,historical,desert,Angkor Wat
+613,4457,mountain,temperate,Innsbruck
+739,3986,mountain,tropical,Lake Louise
+547,1422,historical,arctic,Venice
+726,2211,city,desert,Edinburgh
+684,2383,mountain,desert,Fiordland National Park
+99,2092,historical,desert,Ephesus
+805,1015,city,arctic,Milan
+728,1676,historical,arctic,Delphi
+574,1789,mountain,arctic,Austria
+407,1252,adventure,desert,Costa Rica
+503,4904,beach,desert,Santorini
+48,4190,historical,temperate,Osaka
+33,2553,city,arctic,Edinburgh
+780,2981,mountain,desert,Jungfrau
+840,2842,adventure,temperate,Rainbow Mountain
+201,2109,mountain,arctic,Austria
+135,2398,beach,temperate,Thailand
+28,4828,city,desert,Madrid
+881,4181,adventure,tropical,Blue Lagoon
+231,3200,city,desert,Los Angeles
+490,3395,beach,temperate,Fiji
+773,1180,adventure,arctic,South Africa
+379,2381,mountain,temperate,Switzerland
+289,2292,beach,arctic,Bahamas
+419,1202,adventure,tropical,Cape Town
+675,3320,historical,desert,Mexico City
+392,2555,beach,desert,Maui
+593,1418,city,tropical,Melbourne
+499,4765,mountain,temperate,Fiordland National Park
+139,2955,city,temperate,Rome
+63,3619,city,arctic,Singapore
+472,2720,adventure,arctic,Preikestolen
+648,2949,city,temperate,Kyoto
+129,2624,historical,tropical,Shanghai
+977,3956,adventure,desert,Norway
+521,1769,mountain,tropical,Jungfrau
+839,4625,beach,arctic,Seychelles
+963,3104,mountain,desert,Patagonia
+65,4096,city,desert,Manchester
+813,2850,adventure,desert,Maasai Mara
+15,3313,beach,tropical,Maldives
+157,2516,beach,tropical,Maui
+41,3474,historical,desert,Japan
+493,2372,mountain,arctic,Canada
+380,2971,city,arctic,Hong Kong
+188,2701,beach,temperate,Bora Bora
+764,1924,city,desert,Singapore
+217,3004,city,temperate,Los Angeles
+792,1311,adventure,temperate,Galapagos
+53,2816,historical,arctic,Istanbul
+879,3391,historical,desert,India
+338,4980,city,tropical,Melbourne
+749,1511,adventure,tropical,Kruger National Park
+720,3125,beach,temperate,Bermuda
+725,1547,city,desert,Macau
+296,4861,historical,arctic,Shanghai
+702,2969,beach,desert,Ibiza
+252,1967,mountain,arctic,Machu Picchu
+727,4056,city,temperate,Singapore
+462,1476,mountain,tropical,Mount Everest
+456,2448,beach,desert,Greece
+997,1207,historical,desert,Italy
+816,1212,mountain,arctic,Lake Louise
+863,3489,city,temperate,Bangkok
+270,2418,mountain,desert,Peru
+202,4539,city,arctic,Doha
+162,3069,historical,tropical,Osaka
+556,2647,historical,tropical,Pompeii
+730,3656,beach,temperate,Seychelles
+402,4988,historical,desert,Olympia
+703,4186,beach,temperate,Cancun
+477,3118,beach,desert,Zanzibar
+822,1790,adventure,arctic,Monteverde
+772,4755,historical,desert,Phnom Penh
+106,3627,historical,desert,Venice
+566,3984,historical,temperate,Ephesus
+390,1769,mountain,arctic,Switzerland
+2,2531,city,desert,Venice
+938,4370,mountain,arctic,Jungfrau
+983,2318,city,temperate,London
+562,1729,historical,tropical,Cairo
+81,2845,historical,arctic,Turkey
+206,1627,mountain,temperate,Lake Louise
+35,3569,beach,temperate,Greece
+776,2032,historical,desert,Athens
+509,2060,adventure,desert,Kruger National Park
+428,3138,adventure,tropical,Galapagos Islands
+455,2186,city,temperate,Barcelona
+367,3079,adventure,arctic,Galapagos
+92,4300,mountain,temperate,Annapurna
+340,2270,adventure,arctic,South Africa
+898,1278,mountain,tropical,Switzerland
+565,3968,beach,arctic,Maui
+346,2042,beach,temperate,Tahiti
+777,1333,beach,tropical,Barbados
+242,1960,mountain,desert,Patagonia
+14,3938,historical,tropical,Ephesus
+316,1320,city,tropical,Kuala Lumpur
+601,4402,beach,temperate,Phuket
+388,2587,adventure,desert,Monteverde
+274,4836,adventure,temperate,Scotland
+167,1846,adventure,desert,Rainbow Mountain
+841,2470,mountain,tropical,Tyrol
+993,1974,adventure,tropical,Galapagos Islands
+647,4141,historical,temperate,Kamakura
+819,2848,beach,tropical,Phuket
+485,4066,beach,tropical,Maui
+981,2858,city,tropical,Edinburgh
+505,1465,historical,temperate,Vatican City
+832,1628,adventure,temperate,Rainbow Mountain
+244,2297,historical,tropical,Delphi
+567,1826,historical,temperate,Olympia
+876,3551,beach,desert,Barbados
+563,4923,mountain,desert,Peru
+687,1991,mountain,tropical,Machu Picchu
+190,3560,adventure,desert,Reykjavik
+783,3567,city,tropical,Dubai
+700,4970,city,desert,Osaka
+476,1598,city,arctic,Kuala Lumpur
+682,3764,beach,arctic,Maldives
+511,3787,adventure,temperate,Iceland
+59,4752,adventure,tropical,Alaska
+475,3464,historical,arctic,Mexico City
+561,4736,adventure,tropical,Galapagos Islands
+857,3120,mountain,temperate,Canada
+748,1679,beach,desert,Fiji
+253,3698,city,arctic,Macau
+22,1888,beach,desert,Seychelles
+314,3916,mountain,arctic,Annapurna
+460,4372,mountain,desert,Mount Everest
+161,1732,mountain,arctic,Peru
+277,4877,mountain,tropical,Jungfrau
+956,1854,historical,arctic,Istanbul
+192,2622,beach,temperate,Thailand
+386,3524,adventure,tropical,Trolltunga
+806,2888,mountain,desert,Patagonia
+414,2502,mountain,temperate,Mount Everest
+492,2264,mountain,temperate,Matterhorn
+344,1917,beach,arctic,Malaysia
+770,2345,adventure,arctic,Cape Town
+309,3254,historical,arctic,Istanbul
+662,2106,adventure,desert,Kenai Fjords
+131,4399,mountain,desert,Torres del Paine
+664,3386,city,temperate,Venice
+872,3768,beach,tropical,Australia
+100,2403,historical,arctic,Alexandria
+373,1154,mountain,temperate,Machu Picchu
+88,4135,beach,arctic,Australia
+459,3306,city,desert,Shanghai
+331,3923,historical,desert,Beijing
+215,2540,city,desert,Paris
+467,4753,adventure,tropical,Scotland
+122,2035,mountain,desert,Mount Everest
+615,2742,beach,temperate,Tahiti
+21,1641,mountain,arctic,Andes
+701,3423,historical,temperate,Olympia
+72,1190,historical,desert,Japan
+107,1581,city,temperate,Macau
+271,3469,adventure,temperate,Arenal
+861,4491,mountain,desert,Fiordland National Park
+436,3688,adventure,arctic,Rainbow Mountain
+103,2885,mountain,desert,Nepal
