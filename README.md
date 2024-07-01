@@ -1,6 +1,7 @@
 # Travel-Recommendation-System
 
-The Personalized Travel Recommendation System is a machine learning-based application designed to provide tailored travel destination recommendations to users based on their interests, budget, and preferred climate. The system utilizes a combination of content-based filtering and machine-learning classifiers to generate accurate and personalized travel suggestions.
+The Personalized Travel Recommendation System is a machine learning-based application designed to provide tailored travel destination recommendations to users based on their interests, budget, and preferred climate. The system utilizes a combination of content-based filtering and machine-learning classifiers to generate accurate and personalized travel suggestions. <br /><br />
+You can modify the provided dataset or use your datasets as needed. You can also adjust the source code to generate suitable travel recommendations for different scenarios.
 
 # Key Features
 Data Input:<br />
